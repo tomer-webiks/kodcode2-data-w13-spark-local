@@ -13,6 +13,10 @@ def start():
     
     # 1 - Show top 5
     df.show(5)
+    obj = df.collect()
+    # print(obj[0].asDict())
+    # df.describe()
+
 
     # 2 - Filter reviews with a Score of 5
     high_rating_df = df.filter(df["Score"] == 5)
