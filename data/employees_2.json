@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "details": {
+            "age": 30,
+            "city": "New York"
+        },
+        "department": "Engineering",
+        "salary": 120000.5
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "details": {
+            "age": 40,
+            "city": "Los Angeles"
+        },
+        "department": "HR",
+        "salary": 90000.0
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "details": {
+            "age": 35,
+            "city": "Chicago"
+        },
+        "department": "Finance",
+        "salary": 110000.75
+    }
+  ]
+  
