@@ -1,0 +1,4 @@
+[
+    {"id": 1, "skills": [{"skill": "Python", "level": "Expert"}, {"skill": "Spark", "level": "Intermediate"}]},
+    {"id": 2, "skills": [{"skill": "Communication", "level": "Advanced"}]}
+]

@@ -10,7 +10,9 @@
         "salary": 120000.5,
         "projects": [
             "Project Alpha",
-            "Project Beta"
+            "Project Beta",
+            "Project Gamma",
+            "Project Delta"
         ],
         "skills": [
             {
@@ -35,7 +37,9 @@
         "salary": 90000.0,
         "projects": [
             "Employee Relations",
-            "Recruitment Drive"
+            "Recruitment Drive",
+            "Diversity Initiative",
+            "Onboarding Program"
         ],
         "skills": [
             {
@@ -60,7 +64,9 @@
         "salary": 110000.75,
         "projects": [
             "Quarterly Budget",
-            "Annual Report"
+            "Annual Report",
+            "Risk Analysis",
+            "Tax Planning"
         ],
         "skills": [
             {
@@ -84,8 +90,8 @@
         "department": "Marketing",
         "salary": 94654.06,
         "projects": [
-            "Project A",
-            "Project B"
+            "Campaign Design",
+            "Social Media Strategy"
         ],
         "skills": [
             {
@@ -106,8 +112,8 @@
         "department": "HR",
         "salary": 145893.31,
         "projects": [
-            "Project B",
-            "Project C"
+            "Recruitment Drive",
+            "Training Program"
         ],
         "skills": [
             {
@@ -128,16 +134,16 @@
         "department": "Marketing",
         "salary": 96487.65,
         "projects": [
-            "Project C",
-            "Project D"
+            "Brand Refresh",
+            "Market Analysis"
         ],
         "skills": [
             {
-                "skill": "Public Speaking",
+                "skill": "SEO",
                 "level": "Intermediate"
             }
         ],
-        "job_title": "Developer",
+        "job_title": "Manager",
         "timestamp": 1733239929
     },
     {
@@ -150,8 +156,8 @@
         "department": "HR",
         "salary": 104704.01,
         "projects": [
-            "Project D",
-            "Project E"
+            "Policy Development",
+            "Employee Handbook"
         ],
         "skills": [
             {
@@ -172,8 +178,8 @@
         "department": "Finance",
         "salary": 86482.43,
         "projects": [
-            "Project E",
-            "Project F"
+            "Financial Forecast",
+            "Cost Reduction"
         ],
         "skills": [
             {
@@ -194,12 +200,12 @@
         "department": "Finance",
         "salary": 99815.43,
         "projects": [
-            "Project F",
-            "Project G"
+            "Annual Report",
+            "Tax Planning"
         ],
         "skills": [
             {
-                "skill": "Public Speaking",
+                "skill": "Accounting",
                 "level": "Beginner"
             }
         ],
@@ -216,13 +222,13 @@
         "department": "Finance",
         "salary": 111933.19,
         "projects": [
-            "Project G",
-            "Project H"
+            "Investment Strategy",
+            "Retirement Planning"
         ],
         "skills": [
             {
-                "skill": "Public Speaking",
-                "level": "Beginner"
+                "skill": "Financial Modeling",
+                "level": "Intermediate"
             }
         ],
         "job_title": "Consultant",
